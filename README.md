@@ -386,6 +386,16 @@ Cryptographic Audit Ledger
 
 ANALYST CAN AGAIN REPORT IF HE FINDS A THREAT FROM THAT ACCOUNT FOR FUTHER INVESTIVATION TO THE SUPERVISOR
 
+ backend api 
+ <img width="1913" height="1011" alt="image" src="https://github.com/user-attachments/assets/169b7488-6499-41b8-b219-0c150f43ba90" />
+health endpoint
+<img width="1915" height="1027" alt="image" src="https://github.com/user-attachments/assets/54c96629-d0db-45f5-8677-f9deadc71db5" />
+fast-api-docs
+<img width="1916" height="1028" alt="image" src="https://github.com/user-attachments/assets/f2a43bc1-64dc-4865-9ed9-13108cafd161" />
+<img width="1645" height="927" alt="image" src="https://github.com/user-attachments/assets/66af79d9-a0ba-496a-8b1e-3f63f6f7d4fa" />
+<img width="1745" height="932" alt="image" src="https://github.com/user-attachments/assets/bc9763f8-22c1-4eb0-950a-4aa67cb94718" />
+
+
 
 ---
 
